@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Aadesh_Portfolio/static/css/main.63379ff4.css",
-    "main.js": "/Aadesh_Portfolio/static/js/main.47856bd6.js",
+    "main.css": "/Aadesh_Portfolio/static/css/main.f5d2cd79.css",
+    "main.js": "/Aadesh_Portfolio/static/js/main.73bd55c5.js",
     "static/js/787.fb771931.chunk.js": "/Aadesh_Portfolio/static/js/787.fb771931.chunk.js",
     "static/media/code_screen.gif": "/Aadesh_Portfolio/static/media/code_screen.2f76a2bf4aa017467d6c.gif",
     "static/media/color-sharp.png": "/Aadesh_Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -19,7 +19,6 @@
     "static/media/tdms.png": "/Aadesh_Portfolio/static/media/tdms.0c4c6e7c1d780069ebd2.png",
     "static/media/e-blood.png": "/Aadesh_Portfolio/static/media/e-blood.ecac68a40de06e7642c3.png",
     "static/media/django.svg": "/Aadesh_Portfolio/static/media/django.fc2b25f4c707433bc8e669ed5bfa09d2.svg",
-    "static/media/banner-bg.png": "/Aadesh_Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/wwa.png": "/Aadesh_Portfolio/static/media/wwa.decd2d1611f97d88b422.png",
     "static/media/portfolio.png": "/Aadesh_Portfolio/static/media/portfolio.84b2c893ba3f3be7f1ec.png",
     "static/media/CentraNo2-Bold.ttf": "/Aadesh_Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -28,7 +27,6 @@
     "static/media/CentraNo2-Book.ttf": "/Aadesh_Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/food_app.png": "/Aadesh_Portfolio/static/media/food_app.828ca1b117b58d403d32.png",
     "static/media/aws.svg": "/Aadesh_Portfolio/static/media/aws.98fbb0718f197192eaa2e4226a008457.svg",
-    "static/media/footer-bg.png": "/Aadesh_Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/dotnet.svg": "/Aadesh_Portfolio/static/media/dotnet.1080f8d331ca8145245deba33111ac1a.svg",
     "static/media/js.svg": "/Aadesh_Portfolio/static/media/js.baf13c447447970cf0b352b8626ffeb3.svg",
     "static/media/contact-img.svg": "/Aadesh_Portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
@@ -44,12 +42,12 @@
     "index.html": "/Aadesh_Portfolio/index.html",
     "static/media/nav-icon1.svg": "/Aadesh_Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/Aadesh_Portfolio/static/media/nav-icon2.f8a5e0b12ee720b9719952ba0ab6b7de.svg",
-    "main.63379ff4.css.map": "/Aadesh_Portfolio/static/css/main.63379ff4.css.map",
-    "main.47856bd6.js.map": "/Aadesh_Portfolio/static/js/main.47856bd6.js.map",
+    "main.f5d2cd79.css.map": "/Aadesh_Portfolio/static/css/main.f5d2cd79.css.map",
+    "main.73bd55c5.js.map": "/Aadesh_Portfolio/static/js/main.73bd55c5.js.map",
     "787.fb771931.chunk.js.map": "/Aadesh_Portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63379ff4.css",
-    "static/js/main.47856bd6.js"
+    "static/css/main.f5d2cd79.css",
+    "static/js/main.73bd55c5.js"
   ]
 }
