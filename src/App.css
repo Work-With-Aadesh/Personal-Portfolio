@@ -763,5 +763,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
   .navbar-collapse.collapse.show {
     margin-top: 20px;
+    transition: margin-top 0.25s ease-in-out;
   }
 }
