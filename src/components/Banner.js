@@ -69,12 +69,12 @@ export const Banner = () => {
                     isVisible ? "animate__animated animate__fadeIn" : ""
                   }
                 >
-                  <span className="tagline">Crafting Digital Excellence: Explore My Portfolio</span>
+                  <span className="tagline">
+                    Crafting Digital Excellence: Explore My Portfolio
+                  </span>
                   <h1>
                     {`Hi! I'm Aadesh,`}{" "}
-                    <span
-                      className="txt-rotate"
-                    >
+                    <span className="txt-rotate">
                       <span className="wrap">{text}</span>
                     </span>
                   </h1>
@@ -88,7 +88,13 @@ export const Banner = () => {
                     Passionate about staying updated with emerging technologies
                     and trends to drive continuous improvement and innovation.
                   </p>
-                  <button onClick={() => console.log("connect")}>
+                  <button
+                    onClick={() =>
+                      document
+                        .getElementById("connect")
+                        .scrollIntoView({ behavior: "smooth" })
+                    }
+                  >
                     Let’s Connect <ArrowRightCircle size={25} />
                   </button>
                 </div>
