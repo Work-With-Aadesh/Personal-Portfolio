@@ -58,7 +58,7 @@ export const Banner = () => {
   };
 
   const handleDownload = () => {
-    const downloadUrl = "https://drive.google.com/file/d/11KqmBu2r54pquliK3So1-CyIaJA8I_bk/view?usp=sharing";
+    const downloadUrl = "https://drive.google.com/drive/folders/1NzNzQLxszlzjZR1xHJvS5nd-m2YSmdnS?usp=sharing";
     window.open(downloadUrl, '_blank');
   };
 
