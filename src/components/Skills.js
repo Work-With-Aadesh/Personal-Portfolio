@@ -11,6 +11,7 @@ import csharp from "../assets/img/csharp.svg";
 import dotnet from "../assets/img/dotnet.svg";
 import mysql from "../assets/img/mysql.svg";
 import oracle from "../assets/img/oracle.svg";
+import sqlServer from "../assets/img/sqlServer.svg"
 import aws from "../assets/img/aws.svg";
 import servers from "../assets/img/servers.svg";
 import colorSharp from "../assets/img/color-sharp.png";
@@ -23,7 +24,7 @@ export const Skills = () => {
     },
     desktop: {
       breakpoint: { max: 3000, min: 1024 },
-      items: 3,
+      items: 5,
     },
     tablet: {
       breakpoint: { max: 1024, min: 464 },
@@ -48,6 +49,7 @@ export const Skills = () => {
     { image: dotnet, title: ".Net" },
     { image: mysql, title: "MySQL" },
     { image: oracle, title: "Oracle" },
+    { image: sqlServer, title: "SQL Server" },
     { image: aws, title: "AWS Services" },
     { image: servers, title: "Web Servers" },
   ];
@@ -64,19 +66,26 @@ export const Skills = () => {
                 development, and cloud-based solutions.<br></br> Explore your
                 needs, find solutions here !!!
               </p>
-              <Carousel
+              {/* <Carousel
                 responsive={responsive}
                 infinite={true}
                 className="owl-carousel owl-theme skill-slider"
               >
-                {/* Mapping items dynamically */}
                 {items.map((item, index) => (
                   <div key={index} className="item">
                     <img src={item.image} alt="skillsets" />
                     <h5>{item.title}</h5>
                   </div>
                 ))}
-              </Carousel>
+              </Carousel> */}
+              <div className="skills-div">
+              {items.map((item, index) => (
+                  <div key={index} className="item">
+                    <img src={item.image} alt="skillsets" />
+                    <h5>{item.title}</h5>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         </div>
